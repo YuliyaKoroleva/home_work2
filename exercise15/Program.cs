@@ -31,3 +31,7 @@ switch (num)
         System.Console.Write("7 -> Да");
         break;
 }
+if (num > 7 || num < 1)
+{
+    Console.WriteLine("Такого дня недели нет");
+}
