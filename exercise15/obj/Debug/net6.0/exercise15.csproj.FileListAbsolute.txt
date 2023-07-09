@@ -1,0 +1,15 @@
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\obj\Debug\net6.0\exercise15.csproj.AssemblyReference.cache
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\obj\Debug\net6.0\exercise15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\obj\Debug\net6.0\exercise15.AssemblyInfoInputs.cache
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\obj\Debug\net6.0\exercise15.AssemblyInfo.cs
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\obj\Debug\net6.0\exercise15.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\bin\Debug\net6.0\exercise15.exe
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\bin\Debug\net6.0\exercise15.deps.json
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\bin\Debug\net6.0\exercise15.runtimeconfig.json
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\bin\Debug\net6.0\exercise15.dll
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\bin\Debug\net6.0\exercise15.pdb
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\obj\Debug\net6.0\exercise15.dll
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\obj\Debug\net6.0\refint\exercise15.dll
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\obj\Debug\net6.0\exercise15.pdb
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\obj\Debug\net6.0\exercise15.genruntimeconfig.cache
+C:\Users\Yulya\Desktop\home_work_C#2\exercise15\obj\Debug\net6.0\ref\exercise15.dll
