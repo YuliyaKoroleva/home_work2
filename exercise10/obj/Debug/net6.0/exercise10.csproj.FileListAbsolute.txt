@@ -1,0 +1,15 @@
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\bin\Debug\net6.0\exercise10.exe
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\bin\Debug\net6.0\exercise10.deps.json
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\bin\Debug\net6.0\exercise10.runtimeconfig.json
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\bin\Debug\net6.0\exercise10.dll
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\bin\Debug\net6.0\exercise10.pdb
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\obj\Debug\net6.0\exercise10.csproj.AssemblyReference.cache
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\obj\Debug\net6.0\exercise10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\obj\Debug\net6.0\exercise10.AssemblyInfoInputs.cache
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\obj\Debug\net6.0\exercise10.AssemblyInfo.cs
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\obj\Debug\net6.0\exercise10.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\obj\Debug\net6.0\exercise10.dll
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\obj\Debug\net6.0\refint\exercise10.dll
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\obj\Debug\net6.0\exercise10.pdb
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\obj\Debug\net6.0\exercise10.genruntimeconfig.cache
+C:\Users\Yulya\Desktop\home_work_C#2\exercise10\obj\Debug\net6.0\ref\exercise10.dll
